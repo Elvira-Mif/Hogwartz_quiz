@@ -19,7 +19,7 @@ elif q1 == 2:
 else:
   print('Wrong input')
 print( )
-print("When I’m dead, I want people to remember me as:")
+print("When I’m dead, I want people to remember me as? ")
 print("1 - The Good")
 print("2 - The Great")
 print("3 - The Wise")
@@ -36,7 +36,7 @@ elif q2 == 4:
 else:
   print('Wrong input')
 print( )
-print("Which kind of instrument most pleases your ear:")
+print("Which kind of instrument most pleases your ear? ")
 print("1 - The violin")
 print("2 - The trumpet")
 print("3 - The piano")
