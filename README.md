@@ -1,4 +1,4 @@
-<h1 style="color:DodgerBlue;">✨ Hello and Welcome to the "Hogwarts" -
+<h1>✨ Hello and Welcome to the "Hogwarts" -
   The School of Witchcraft and Wizardry! ✨</h1>
 
 <h2>Today we are going to find out to which house of Hogwarts you belong!</h2>
