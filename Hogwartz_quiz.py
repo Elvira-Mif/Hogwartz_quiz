@@ -59,10 +59,10 @@ print( )
 # print("Slytherin: " + str(Slytherin))
 
 if Gryffindor > Ravenclaw and Gryffindor > Hufflepuff and Gryffindor > Slytherin:
-  print("GRYYYYYYYYYYFFINDOR!!!")
+  print("GRYYYYYYYYYYFFINDOR!!!🦁")
 elif Ravenclaw > Gryffindor and Ravenclaw > Hufflepuff and Ravenclaw > Slytherin:
-  print("Ravenclaw!")
+  print("Ravenclaw!🦅")
 elif Hufflepuff > Gryffindor and Hufflepuff > Ravenclaw and Hufflepuff > Slytherin:
-  print("Hufflepuff!")
+  print("Hufflepuff!🦨")
 elif Slytherin > Gryffindor and Slytherin > Ravenclaw and Slytherin > Hufflepuff:
-  print("SLyThErIN!!")
+  print("SLyThErIN!!🐍")
