@@ -1,5 +1,5 @@
-<h1>✨ Hello and Welcome to the "Hogwarts" -
-  The School of Witchcraft and Wizardry! ✨</h1>
+<h1>⭐ Hello and Welcome to the "Hogwarts" -
+  The School of Witchcraft and Wizardry! ⭐</h1>
   
 ![hogwarts-castle-night-sky-desktop-wallpaper-cover](https://github.com/user-attachments/assets/a7902504-d036-488c-9b85-d0d01f749384)
 
